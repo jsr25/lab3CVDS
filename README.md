@@ -1,3 +1,3 @@
 # lab3CVDS
-María Fernanda Hernández Vargas\n
-Juan Sebastian Ramos Isaza
+*María Fernanda Hernández Vargas
+*Juan Sebastian Ramos Isaza
